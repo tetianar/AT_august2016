@@ -8,3 +8,5 @@ class Greeter
 end
 class GreeterSecond
 end
+class GreeterThird greeter_Naidonov.rb greeter_Naidonov.rb greeter_Naidonov.rb greeter_Naidonov.rb
+end
