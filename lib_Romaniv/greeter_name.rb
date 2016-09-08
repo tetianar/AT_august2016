@@ -6,3 +6,5 @@ class Greeter
     "Hello, #{@who}"
   end
 end
+
+//write a comment
