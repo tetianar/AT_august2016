@@ -1,4 +1,4 @@
-class Greeter
+class Greeter_Romaniv
   def initialize(who)
     @who = who
   end
