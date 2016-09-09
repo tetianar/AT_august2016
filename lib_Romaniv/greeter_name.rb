@@ -8,5 +8,5 @@ class Greeter_Romaniv
 end
 
 //write a comment
-
-Hello Tanya!
+ 
+Hello Tanya! (© Anton)
